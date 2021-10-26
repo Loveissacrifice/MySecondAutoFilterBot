@@ -52,7 +52,7 @@ async def start(bot, update):
     ],[
         InlineKeyboardButton('🍁Channel🍁', url='https://t.me/Moviezz4unew')
     ],[
-        InlineKeyboardButton('Help ', callback_data="help")
+        InlineKeyboardButton('Help ', url='https://t.me/Moviezz4unew')
     ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
