@@ -51,8 +51,7 @@ async def start(bot, update):
         InlineKeyboardButton('🍁Second Group🍁', url ='https://t.me/moviezz4ulatest')
     ],[
         InlineKeyboardButton('🍁Channel🍁', url='https://t.me/Moviezz4unew')
-    ],[
-        InlineKeyboardButton('Help ', url='https://t.me/Moviezz4unew')
+    
     ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
