@@ -50,7 +50,7 @@ async def start(bot, update):
         InlineKeyboardButton('🍁Main Group🍁', url='https://t.me/Moviezzz4ucom'),
         InlineKeyboardButton('🍁Second Group🍁', url ='https://t.me/moviezz4ulatest')
     ],[
-        InlineKeyboardButton('🍁Channel🍁', url='https://t.me/Moviezz4unew')
+        InlineKeyboardButton('🎬Channel🎬', url='https://t.me/Moviezz4unew')
     
     ]]
     
